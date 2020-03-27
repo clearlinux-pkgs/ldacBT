@@ -4,7 +4,7 @@
 #
 Name     : ldacBT
 Version  : 2.0.2.3
-Release  : 2
+Release  : 3
 URL      : https://github.com/EHfive/ldacBT/releases/download/v2.0.2.3/ldacBT-2.0.2.3.tar.gz
 Source0  : https://github.com/EHfive/ldacBT/releases/download/v2.0.2.3/ldacBT-2.0.2.3.tar.gz
 Summary  : LDAC Bluetooth ABR library.
